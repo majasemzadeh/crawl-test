@@ -1,7 +1,3 @@
-# Save the README content to a file for download
-readme_content = """
-## README.md
-
 ### Maktabkhooneh Course Categories Data Fetcher
 
 This script is designed to fetch course data from the Maktabkhooneh platform.
