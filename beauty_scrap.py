@@ -44,7 +44,6 @@ if response.status_code == 200:
 
                         title = card.find(class_="course-card__title")
                         teacher = card.find(class_="course-card__teacher")
-                        hierarchie = card.find(class_="course-card-extra__hierarchy")
                         price = card.find(class_="course-card__price")
 
                         course_info = {
